@@ -1,5 +1,5 @@
-public class java Test19{
-	public static void main(Stirng[] args {
+public class Test19{
+	public static void main(Stirng[] args) {
 		int score=90;
 		String result="";
 
@@ -7,6 +7,9 @@ public class java Test19{
 			result="pass";
 		else
 			result="fail";
+		System.out.println(result);
+		System.out.println(result);
+		System.out.println(result);
 		System.out.println(result);
 	}
 }
